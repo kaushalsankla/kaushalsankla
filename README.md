@@ -2,7 +2,8 @@
 - 👀 I’m interested in B2B software and Application 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... kaushal.sankla@gmail.com
+Mobile +917350977007
 
 <!---
 kaushalsankla/kaushalsankla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
